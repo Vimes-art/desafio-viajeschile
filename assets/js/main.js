@@ -22,14 +22,25 @@ $(function(){
 
     })
 
+    /* al hacer doble click en los titulos de quienes somos, destacados y contacto, cambia el css */
+
     $('#scrollspyHeading1').on ("dblclick", function(){
         $(this).css("color","#04B4AE")
-        
+
 
     })
 
+    $('#scrollspyHeading2').on ("dblclick", function(){
+        $(this).css("color","#04B4AE")
 
 
+    })
+
+    $('#scrollspyHeading3').on ("dblclick", function(){
+        $(this).css("color","#04B4AE")
+
+
+    })
 
 
 
