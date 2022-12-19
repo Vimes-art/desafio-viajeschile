@@ -22,6 +22,11 @@ $(function(){
 
     })
 
+    $('#scrollspyHeading1').on ("dblclick", function(){
+        $(this).css("color","#04B4AE")
+        
+
+    })
 
 
 
