@@ -1,0 +1,127 @@
+#body{
+
+    background-color: black;
+}
+
+/* Navbar css*/
+
+.navbar{
+
+    opacity: 40%;
+}
+
+
+.header{
+
+    background-color: black;
+}
+
+nav a:link{
+
+    color: black;
+}
+
+nav a:visited{
+    color: black;
+}
+
+nav a:hover{
+
+    color: #c15f46;
+
+}
+
+nav a:active{
+
+    color: #c15f46;
+}
+
+/* css quienes somos*/
+
+#Titulo_quienessomos{
+
+    color: white;
+    background-color: black;
+
+}
+
+.container{
+
+    background-color: black;
+}
+
+.icono_textos{
+
+    color: white;
+    text-align: center;
+
+}
+
+.texto_quienessomos{
+
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    
+}
+
+#scrollspyHeading1{
+
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+
+
+}
+
+/*Css de Destacados*/
+
+hr{
+    color: #04B4AE;
+    margin: 10px;
+}
+
+
+.card-img-top{
+
+    height: 160px;
+}
+
+.card-text{
+
+    background-color: #04B4AE;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+
+}
+
+.card-body{
+
+    background-color:#04B4AE;
+}
+
+/*Contactos*/
+
+#scrollspyHeading2{
+
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.form-label{
+
+    color: white;
+}
+
+#scrollspyHeading3{
+
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+
+}
+
